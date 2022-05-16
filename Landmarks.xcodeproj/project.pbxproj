@@ -11,6 +11,7 @@
 		0060E2632831730E00D22E6F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0060E2622831730E00D22E6F /* ContentView.swift */; };
 		0060E2652831731100D22E6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0060E2642831731100D22E6F /* Assets.xcassets */; };
 		0060E2682831731100D22E6F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0060E2672831731100D22E6F /* Preview Assets.xcassets */; };
+		0060E26F28322F1200D22E6F /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0060E26E28322F1200D22E6F /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0060E2622831730E00D22E6F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0060E2642831731100D22E6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0060E2672831731100D22E6F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0060E26E28322F1200D22E6F /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				0060E2602831730E00D22E6F /* LandmarksApp.swift */,
 				0060E2622831730E00D22E6F /* ContentView.swift */,
 				0060E2642831731100D22E6F /* Assets.xcassets */,
+				0060E26E28322F1200D22E6F /* CircleView.swift */,
 				0060E2662831731100D22E6F /* Preview Content */,
 			);
 			path = Landmarks;
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0060E26F28322F1200D22E6F /* CircleView.swift in Sources */,
 				0060E2632831730E00D22E6F /* ContentView.swift in Sources */,
 				0060E2612831730E00D22E6F /* LandmarksApp.swift in Sources */,
 			);

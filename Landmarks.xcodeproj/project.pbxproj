@@ -18,6 +18,7 @@
 		0060E2772832513F00D22E6F /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0060E2762832513F00D22E6F /* ModelData.swift */; };
 		0060E27C2832786C00D22E6F /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0060E27B2832786C00D22E6F /* LandmarkRow.swift */; };
 		0060E27E28327FAE00D22E6F /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0060E27D28327FAE00D22E6F /* LandmarkList.swift */; };
+		008DB9562833A33C00672684 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008DB9552833A33C00672684 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		0060E2762832513F00D22E6F /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		0060E27B2832786C00D22E6F /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		0060E27D28327FAE00D22E6F /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		008DB9552833A33C00672684 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0060E270283239B100D22E6F /* MapView.swift */,
 				0060E2622831730E00D22E6F /* ContentView.swift */,
 				0060E26E28322F1200D22E6F /* CircleView.swift */,
+				008DB9552833A33C00672684 /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				0060E271283239B100D22E6F /* MapView.swift in Sources */,
 				0060E27C2832786C00D22E6F /* LandmarkRow.swift in Sources */,
 				0060E27E28327FAE00D22E6F /* LandmarkList.swift in Sources */,
+				008DB9562833A33C00672684 /* LandmarkDetail.swift in Sources */,
 				0060E2632831730E00D22E6F /* ContentView.swift in Sources */,
 				0060E2612831730E00D22E6F /* LandmarksApp.swift in Sources */,
 				0060E27528324EBF00D22E6F /* Landmark.swift in Sources */,
